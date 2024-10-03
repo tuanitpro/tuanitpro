@@ -6,7 +6,7 @@ With over 8 years working as a developer with Microsoft platform, also in charge
 
 ### 1. Technical Expertise:
 
-- Frontend Proficiency: Good knowledge of HTML, CSS, JavaScript, Ajax Angular JS, Angular 2->7, React Js, Vue Js Typescript (object oriented with JavaScript, HTML standard compliance, HTM5/CSS3), VueJS, AngularJS, Antd Design, Rsbuild, Webpack, Twitter Bootstrap, EmberJS, JavaScript, jQuery, Ajax, Responsive, HTML5, CSS 3, LESS, AWS services (EC2, S3, DynamoDB, CDN, SQS…)
+- Frontend Proficiency: Deep knowledge of frontend technologies like HTML, CSS, JavaScript, and frameworks such as React and Vue.js.
 
 - Backend Development: Experience in backend technologies like Node.js, C#, ADO.NET NET Core, MVC, LINQ, Entity Framework, Dapper, WebServices, RESTful API, IdentityServer4, RabbitMQ, Redis, NodeJS, NestJS. Knowledge of some well-known Unit Test with xUnit, NSubtitue. (The art of unit testing)
 
