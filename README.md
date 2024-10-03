@@ -10,6 +10,8 @@ Frontend Proficiency: Good knowledge of HTML, CSS, JavaScript, Ajax Angular JS, 
 
 Backend Development: Experience in backend technologies like Node.js, C#, ADO.NET NET Core, MVC, LINQ, Entity Framework, Dapper, WebServices, RESTful API, IdentityServer4, RabbitMQ, Redis, NodeJS, NestJS. Knowledge of some well-known Unit Test with xUnit, NSubtitue. (The art of unit testing)
 
+Mobile app Development: Experienced in React Native, Flutter, and Android Studio, XCode. 
+
 Database Management: Familiarity with both relational (SQL) and non-relational (NoSQL) databases like SQL Server, PostgreSQL, MySQL, MongoDB.
 
 API Design: Expertise in designing and developing RESTful or GraphQL APIs.
