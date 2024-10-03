@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'M Senior Fullstack Engineer
+## I'm Senior Fullstack Engineer
 
 
 With over 8 years working as a developer with Microsoft platform, also in charge of some positions from analyzing to developing, deploying system, I have a deep understanding about software architecture , which enables me to learn new technology fast and easily. I also can work under pressure and have strong passion for learning new things
