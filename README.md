@@ -18,7 +18,15 @@ With over 8 years working as a developer with Microsoft platform, also in charge
 
 - Cloud Services: Familiarity with cloud platforms like AWS, Azure and experience with deploying applications on these platforms.
 
-- DevOps Knowledge: Familiarity with CI/CD pipelines, containerization (Docker), and orchestration tools like Kubernetes. ArgoCD, k8s Terraform (AWS, Azure), Docker, Jenkins, Gitlab CI, GitHub Action...  
+- DevOps Knowledge: Familiarity with CI/CD pipelines, containerization (Docker), and orchestration tools like Kubernetes. ArgoCD, k8s Terraform (AWS, Azure), Docker, Jenkins, Gitlab CI, GitHub Action...
+
+- AI-Powered Development: Experienced in leveraging AI tools to accelerate and enhance the development workflow — including Claude AI, Google Gemini, and GitHub Copilot for intelligent code completion, review, and generation.
+
+- AI Chatbot Development: Capable of designing and building conversational AI chatbots, integrating large language models into real-world applications to deliver smart, context-aware user experiences.
+
+- AI Workflow Orchestration: Proficient with Langflow for visually composing and managing AI pipelines and chatbot servers, enabling rapid prototyping of complex LLM-driven workflows without deep infrastructure overhead.
+
+- AI Content Generation Systems: Skilled in building automated content writer systems powered by AI — combining prompt engineering, model APIs, and workflow automation to produce high-quality, structured content at scale.
 
 ### 2. System Architecture:
 
